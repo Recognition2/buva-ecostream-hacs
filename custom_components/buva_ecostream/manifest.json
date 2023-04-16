@@ -1,0 +1,12 @@
+{
+    "domain": "buva_ecostream",
+    "name": "BUVA Ecostream",
+    "version": "0.0.1",
+    "documentation": "https://github.com/Recognition2/buva-ecostream-hacs",
+    "issue_tracker": "https://github.com/Recognition2/buva-ecostream-hacs/issues",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": [
+        "@Recognition2"
+    ]
+}
