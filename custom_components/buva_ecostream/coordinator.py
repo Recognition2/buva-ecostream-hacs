@@ -10,7 +10,7 @@ from homeassistant.helpers.update_coordinator import (
 
 from .const import DOMAIN, LOGGER
 
-from .buva_ecostream.api import EcostreamApiClient
+from .api import EcostreamApiClient
 
 
 # https://developers.home-assistant.io/docs/integration_fetching_data#coordinated-single-api-poll-for-data-for-all-entities
