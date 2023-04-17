@@ -8,5 +8,6 @@
     "dependencies": [],
     "codeowners": [
         "@Recognition2"
-    ]
+    ],
+    "config_flow": true
 }

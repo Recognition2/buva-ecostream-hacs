@@ -1,6 +1,6 @@
 {
     "name": "Recognition2/buva-ecostream-hacs",
-    "image": "mcr.microsoft.com/vscode/devcontainers/python:0-3.10-bullseye",
+    "image": "mcr.microsoft.com/vscode/devcontainers/python:0-3.11-bullseye",
     "postCreateCommand": "scripts/setup",
     "forwardPorts": [
         8123
@@ -34,8 +34,5 @@
             }
         }
     },
-    "remoteUser": "vscode",
-    "features": {
-        "rust": "latest"
-    }
+    "remoteUser": "vscode"
 }
